@@ -1,3 +1,3 @@
 # hello-world
-My first repository on Github
+My first repository in Github
 I love 🐫 🐔, and 👪.
